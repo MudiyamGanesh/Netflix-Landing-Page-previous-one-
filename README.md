@@ -1,1 +1,3 @@
-# Netflix-Landing-Page-previous-one-
+nlp.html
+nlp.css
+nlp.js
