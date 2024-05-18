@@ -321,4 +321,12 @@ i{
         padding: 0.09rem 0.09rem;
         font-size: 0.7rem;
     }
+    .table thead th{
+        padding: 0.4rem;
+        font-size: 0.4rem;
+    }
+    .table tbody tr td{
+        font-size: 0.4rem;
+        padding: 0.1rem 0.4rem;
+    }
 }
